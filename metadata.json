@@ -1,0 +1,5 @@
+{
+  "name": "Telmi",
+  "description": "A warm, glass-style AI emotional companion designed to help you express and regulate your emotions through empathetic text and voice interactions.",
+  "requestFramePermissions": ["microphone"]
+}
